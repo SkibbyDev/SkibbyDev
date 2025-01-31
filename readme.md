@@ -15,6 +15,6 @@ Java Developer here! 👀
 - Turkiye ₺
 - Developer 💻
 --------------------------------------------------------------------------------
-# My Stats
+# My Stats/Tools i use
+[![My Skills](https://skillicons.dev/icons?i=java,github,replit,discord,vscode)](https://skillicons.dev)
 ![SkibbyDev's Stats](https://github-readme-stats.vercel.app/api?username=SkibbyDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
