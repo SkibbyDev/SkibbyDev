@@ -17,3 +17,4 @@ Java Developer here! 👀
 --------------------------------------------------------------------------------
 # My Stats
 ![SkibbyDev's Stats](https://github-readme-stats.vercel.app/api?username=SkibbyDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
