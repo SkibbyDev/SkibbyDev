@@ -15,7 +15,7 @@ Java Developer here! 👀
 - Turkiye ₺
 - Developer 💻
 --------------------------------------------------------------------------------
-# my Stats
+# My stats
 ![SkibbyDev's Stats](https://github-readme-stats.vercel.app/api?username=SkibbyDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 --------------------------------------------------------------------------------
