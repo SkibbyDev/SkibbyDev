@@ -1,14 +1,15 @@
 Hello there, Developer. 🧑‍💻
-for now i got nothing on mind for what projects to create.
-Java Developer here! 👀
+Bash Developer here! 👀
+What i created in the past month
 
+- A file checker in bash check it out here: 
 
 ---------------------------------------------------------------------------------
 # What i do 🤷
-- coding Java ⌨
+- creating bash files ⌨
 - work on projects that will be in early developement 🪲
 - Create cool projects (maybe soon ig...) ☕
-- fix outdated java snippets/files 🛠
+- fix outdated bash snippets/files 🛠
 --------------------------------------------------------------------------------
 # About me 🙋
 - 13 years old 👤
@@ -20,4 +21,4 @@ Java Developer here! 👀
 
 --------------------------------------------------------------------------------
 # Tools i use
-[![My Skills](https://skillicons.dev/icons?i=java,github,replit,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,github,replit,discord,vscode)](https://skillicons.dev)
