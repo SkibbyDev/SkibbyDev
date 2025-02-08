@@ -2,11 +2,11 @@ Hello there, Developer. 🧑‍💻
 Bash Developer here! 👀
 What i created in the past month
 
-- A file checker in bash check it out here: 
+- A file checker in bash check it out here: https://github.com/SkibbyDev/File-Checker
 
 ---------------------------------------------------------------------------------
 # What i do 🤷
-- creating bash files ⌨
+- creating bash projectsx ⌨
 - work on projects that will be in early developement 🪲
 - Create cool projects (maybe soon ig...) ☕
 - fix outdated bash snippets/files 🛠
