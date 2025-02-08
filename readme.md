@@ -2,14 +2,14 @@ Hello there, Developer. 🧑‍💻
 Bash Developer here! 👀
 What i created in the past month
 
-- A file checker in bash check it out here: https://github.com/SkibbyDev/File-Checker
+- A file checker in Shell check it out here: https://github.com/SkibbyDev/File-Checker
+- a File Writter in Shell check it out here: https://github.com/SkibbyDev/File-Writer
 
 ---------------------------------------------------------------------------------
 # What i do 🤷
 - creating bash projectsx ⌨
 - work on projects that will be in early developement 🪲
 - Create cool projects (maybe soon ig...) ☕
-- fix outdated bash snippets/files 🛠
 --------------------------------------------------------------------------------
 # About me 🙋
 - 13 years old 👤
@@ -21,4 +21,4 @@ What i created in the past month
 
 --------------------------------------------------------------------------------
 # Tools i use
-[![My Skills](https://skillicons.dev/icons?i=bash,vercel,github,replit,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,vercel,github,discord,vscode)](https://skillicons.dev)
