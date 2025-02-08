@@ -1,5 +1,5 @@
 Hello there, Developer. 🧑‍💻
-Bash Developer here! 👀
+Trying to be a Python Developer! 👀
 What i created in the past month
 
 - A file checker in Shell check it out here: https://github.com/SkibbyDev/File-Checker
@@ -7,13 +7,12 @@ What i created in the past month
 
 ---------------------------------------------------------------------------------
 # What i do 🤷
-- creating bash projectsx ⌨
+- creating projectsx ⌨
 - work on projects that will be in early developement 🪲
 - Create cool projects (maybe soon ig...) ☕
 --------------------------------------------------------------------------------
 # About me 🙋
 - 13 years old 👤
-- Turkiye ₺
 - Developer 💻
 --------------------------------------------------------------------------------
 # My stats
@@ -21,4 +20,4 @@ What i created in the past month
 
 --------------------------------------------------------------------------------
 # Tools i use
-[![My Skills](https://skillicons.dev/icons?i=bash,vercel,github,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vercel,github,discord,vscode)](https://skillicons.dev)
