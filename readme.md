@@ -3,7 +3,8 @@ Trying to be a Developer! 👀
 What i created in the past month
 
 - A file checker in Shell check it out here: https://github.com/SkibbyDev/File-Checker
-- a File Writter in Shell check it out here: https://github.com/SkibbyDev/File-Writer
+- A File Writter in Shell check it out here: https://github.com/SkibbyDev/File-Writer
+- A Name Scanner Written in Java Check it out here: https://github.com/SkibbyDev/Name-Scanner
 
 ---------------------------------------------------------------------------------
 # What i do 🤷
