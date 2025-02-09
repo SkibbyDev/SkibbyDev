@@ -1,5 +1,5 @@
 Hello there, Developer. 🧑‍💻
-Trying to be a Python Developer! 👀
+Trying to be a Developer! 👀
 What i created in the past month
 
 - A file checker in Shell check it out here: https://github.com/SkibbyDev/File-Checker
@@ -20,4 +20,4 @@ What i created in the past month
 
 --------------------------------------------------------------------------------
 # Tools i use
-[![My Skills](https://skillicons.dev/icons?i=python,vercel,github,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,vercel,github,discord,vscode)](https://skillicons.dev)
