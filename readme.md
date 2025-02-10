@@ -21,4 +21,4 @@ What i created in the past month
 
 --------------------------------------------------------------------------------
 # Tools i use
-[![My Skills](https://skillicons.dev/icons?i=java,vercel,github,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vercel,github,discord,vscode)](https://skillicons.dev)
