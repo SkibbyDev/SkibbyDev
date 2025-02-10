@@ -1,5 +1,5 @@
 Hello there, Developer. 🧑‍💻
-Trying to be a Developer! 👀
+Currently Trying to be a Python Developer! 👀
 What i created in the past month
 
 - A file checker in Shell check it out here: https://github.com/SkibbyDev/File-Checker
