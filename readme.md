@@ -1,6 +1,6 @@
 Hello there, Developer. 🧑‍💻
 
-Currently Trying to be a Python Developer! 👀
+Currently Trying to be a JS Developer! 👀
 
 
 What i created in the past month
